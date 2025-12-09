@@ -1,4 +1,5 @@
 EDA Project
+
 This repository contains exploratory data analysis (EDA) work using Python libraries such as NumPy and Pandas. The focus is on learning and applying fundamental data manipulation techniques.
 
 Contents
