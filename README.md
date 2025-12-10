@@ -46,9 +46,4 @@ The focus is on learning and applying fundamental data manipulation techniques t
 
 ---
 
-## 🚀 How to Use
 
-Clone the repository:
-
-```bash
-git clone https://github.com/Pradipwasre/EDA.git
